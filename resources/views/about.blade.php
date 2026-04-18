@@ -1,1 +1,0 @@
-<h1>Day One Project Bareng</h1>
